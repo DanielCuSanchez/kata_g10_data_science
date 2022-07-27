@@ -19,19 +19,19 @@ Topics in this module:
 - Machine learning
 - Deep learning
 - Python
-    - Hello world
-    - Arrays
-    - Lists
-    - Tuples
-    - Dictionaries
-    - List Comprehensions
-    - Functions / Lambda Functions
-    - Loops
-    - Modules
-    - Pip manager
-    - Input data
-    - Exercises
-    - Programming challenges
-    - Filter data
+  - Hello world
+  - Arrays
+  - Lists
+  - Tuples
+  - Dictionaries
+  - List Comprehensions
+  - Functions / Lambda Functions
+  - Loops
+  - Modules
+  - Pip manager
+  - Input data
+  - Exercises
+  - Programming challenges
+  - Filter data
 
 
